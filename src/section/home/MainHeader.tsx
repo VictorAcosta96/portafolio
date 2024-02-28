@@ -4,7 +4,7 @@ export const MainHeader = () => {
     return (
       <article>
         <section className="flex items-center gap-x-4">
-          <img className="rounded-full w-28 h-28" src={Profile} alt="profile image" />
+          <img className="rounded-full w-[100px] h-[110px]" src={Profile} alt="profile image" />
           <a href="">Disponible para trabajar</a>
         </section>
         <section>
